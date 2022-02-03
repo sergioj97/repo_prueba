@@ -1,1 +1,3 @@
-hola uno, el conflicto
+hola uno, el conflicto mediado
+
+
